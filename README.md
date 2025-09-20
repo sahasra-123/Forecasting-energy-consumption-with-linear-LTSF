@@ -1,7 +1,7 @@
 
 ---
 
-### 📌 **Forecasting Energy Consumption with Linear LTSF – README.md**  
+### **Forecasting Energy Consumption with Linear LTSF – README.md**  
 Copy this one into your energy forecasting repo’s `README.md`:  
 
 ```markdown
